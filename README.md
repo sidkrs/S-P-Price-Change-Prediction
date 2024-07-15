@@ -66,10 +66,6 @@ To run this project, clone the repository and run the Jupyter notebook. Make sur
 jupyter notebook S&P\ Correlation.ipynb
 ```
 
-## Disclaimer
-
-This project is for educational purposes only and should not be used for actual trading without further validation and risk management strategies.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
